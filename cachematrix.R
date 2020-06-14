@@ -5,7 +5,7 @@
 ## later use so that computer resource can be saved for other tasks.
 
 ## this notion of computing and caching a inverse matrix is 
-## demonstrated by the two following funciton 
+## demonstrated by the two following functions 
 
 
 ## the first function creates a matrix and store the its inverse
