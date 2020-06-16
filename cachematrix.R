@@ -40,5 +40,6 @@ cacheSolve <- function(x) {
   matrix <- x$get()   
   solve <- solve(matrix)
   x$setSolve(solve)
+  print("This is the reveser of the input matrix") 
   solve
 }
